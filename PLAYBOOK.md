@@ -23,7 +23,9 @@ Post fora da curva ganha **de 3 a 5 carrosséis derivados**, espalhados pelos 5 
 
 1. Derivados de posts fora da curva
 2. Ecos de posts novos
-3. Temas do banco de ganchos e datas sazonais (feriados, promoções de transferência em andamento)
+3. Temas do banco de ganchos e promoções de transferência em andamento
+
+**Não fazer:** posts sobre feriados nem ganchos de pergunta genérica ("pra onde você iria?"). O Marquinhos vetou em 11/10/2026.
 
 ## Formato (o que funciona no nicho)
 
