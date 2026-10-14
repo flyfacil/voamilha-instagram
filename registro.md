@@ -7,4 +7,4 @@
 | 13/10 11:00 | 5 erros que fazem você perder milhas | Plano da semana | MILHAS | Aprovado, falta agendar (bloqueado pela permissão) |
 | 15/10 11:00 | R$ 2.000 ou 50 mil milhas? | Plano da semana | CONTA | Agendado, publicação automática |
 
-- 2026-10-14 · china-executiva (eco do Reel China R$ 1.550 de 16/09): executiva GRU→CAN 75 mil milhas (~R$ 5.100) x Google R$ 29.146. CTA ASSESSORIA. Pronto em carrosseis/2026-10-14-china-executiva, ainda não agendado.
+- 2026-10-14 · china-executiva (eco do Reel China R$ 1.550 de 16/09): executiva GRU→CAN 75 mil milhas (~R$ 5.100) x Google R$ 29.146. CTA ASSESSORIA. Agendado no Metricool para 14/10 às 11h (publicação automática, 8 lâminas com o print do site).
