@@ -33,6 +33,7 @@ Post fora da curva ganha **de 3 a 5 carrosséis derivados**, espalhados pelos 5 
 - **Capa:** gancho forte em 1 ou 2 linhas, de preferência com número ou valor, e "arrasta pro lado".
 - **De 5 a 7 lâminas**, uma ideia por lâmina, texto curto, emojis como marcadores (❌ ✅ 1️⃣ 💸).
 - **Última lâmina:** `COMENTA: "PALAVRA"` + "📌 Salva".
+- **Sem emoji de bandeira** (o Windows desenha como letras: "US", "EU"). Use 🗽 🐉 🗾 🛕.
 - **Legenda curta:** uma frase + "Comenta PALAVRA…" + 4 hashtags.
 - Referência: os posts do @matheustiburtino nesse estilo têm de 1 a 3,9 mil comentários.
 
