@@ -8,3 +8,4 @@
 | BUSCA | 12/10/2026 | Carrossel "Bônus de 100%" | Link do Voa Milha (2h grátis) pra ver onde usar as milhas |
 
 - 2026-10-14 · carrossel china-executiva · COMENTA "ASSESSORIA" → mandar no direct a apresentação da mentoria/assessoria individual.
+| MENTORIA | 19/10/2026 | Trial Reel China R$ 1.550 | Explicar a mentoria e chamar pra conversa |

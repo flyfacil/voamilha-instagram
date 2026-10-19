@@ -8,3 +8,4 @@
 | 15/10 11:00 | R$ 2.000 ou 50 mil milhas? | Plano da semana | CONTA | Agendado, publicação automática |
 
 - 2026-10-14 · china-executiva (eco do Reel China R$ 1.550 de 16/09): executiva GRU→CAN 75 mil milhas (~R$ 5.100) x Google R$ 29.146. CTA ASSESSORIA. Agendado no Metricool para 14/10 às 11h (publicação automática, 8 lâminas com o print do site).
+| 19/10 19:00 | Trial Reel: China R$ 1.550 relançado (gancho SE PREPARE PRA ESSAS PROMOÇÕES) | Reel fora da curva de 16/09 (20 mil de alcance) | MENTORIA | Agendado, publicação automática |
