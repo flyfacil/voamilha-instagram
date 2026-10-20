@@ -11,3 +11,4 @@
 | 19/10 19:00 | Trial Reel: China R$ 1.550 relançado (gancho SE PREPARE PRA ESSAS PROMOÇÕES) | Reel fora da curva de 16/09 (20 mil de alcance) | MENTORIA | Agendado, publicação automática |
 | 19/10 17:30 | Reel: treinando pra levantar as malas da minha esposa (humor) | Vídeo enviado pelo Marquinhos | - | Agendado, publicação automática, áudio Last Train to London |
 | 20/10 18:24 | Trial Reel: 2 executivas pra Tailândia por R$ 5 mil (gancho de preço + zoom) | Reel fora da curva de 16/09 (14 mil de alcance) | MENTORIA | Publicado: https://www.instagram.com/reel/DeuysPtn8EP/ (o agendamento das 18h falhou: Instagram desconectado) |
+| 20/10 20:52 | Reel: ranking de cartões MELHORES / FÁCIL DE CONSEGUIR / FUJA (fotos reais, fundo do Big Ben) | Inspirado no Reel do @gabrielzanette | CARTÃO | Agendado, publicação automática, áudio Last Train to London |
