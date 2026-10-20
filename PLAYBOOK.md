@@ -37,6 +37,11 @@ Post fora da curva ganha **de 3 a 5 carrosséis derivados**, espalhados pelos 5 
 - **Legenda curta:** uma frase + "Comenta PALAVRA…" + 4 hashtags.
 - Referência: os posts do @matheustiburtino nesse estilo têm de 1 a 3,9 mil comentários.
 
+## Reels de teste (relançamento)
+
+- Manter sempre **gancho de preço na frente** (destino + valor em destaque nos 3 primeiros segundos). Em 19/10, o teste da China sem preço no gancho rendeu pouco.
+- Zoom de impacto no 1º meio segundo; CTA "COMENTA MENTORIA" nos últimos segundos; legenda explica que a emissão é antiga.
+
 ## Honestidade
 
 - Nunca inventar preço, rota, quantidade de milhas ou promoção. Valor ilustrativo leva a palavra "exemplo" na arte.
