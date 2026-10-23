@@ -124,3 +124,20 @@ Atenção: ao passar de R$ 180 mil em 12 meses, a alíquota efetiva sobe (ex.: R
 **Não faça:** inflar o preço do ebook e reduzir o da consultoria (ex.: "ebook R$ 900 + consultoria grátis"). Isso é simulação: a Receita requalifica toda a receita como serviço e cobra multa de 75–150%. O preço de cada produto precisa ser real e vendido separadamente.
 
 **Alternativa — Amazon KDP:** a Amazon vende e paga royalties ao autor. Os royalties entram como receita da PJ de direitos autorais (Anexo III), sem ganho em relação à venda direta pela PJ como livro. Use só pelo alcance, não por imposto.
+
+## 10. Tabela prática — quanto sobra por mês (consultoria, CNPJ no Simples + Fator R)
+
+Premissas: DAS 6%; pró‑labore = 28% do recebido, mínimo de 1 salário mínimo (R$ 1.621); INSS 11% sobre o pró‑labore; IRPF zero (pró‑labore ≤ R$ 5 mil); contador estimado em R$ 300/mês. Comparação PF: carnê‑leão + INSS de autônomo 20% (até o teto), valores aproximados.
+
+| Recebido no mês | DAS (6%) | Pró‑labore | INSS (11%) | Imposto total | Contador | **Sobra p/ você (CNPJ)** | Sobra como PF (aprox.) |
+|---|---|---|---|---|---|---|---|
+| R$ 3.000 | R$ 180 | R$ 1.621 | R$ 178 | R$ 358 (11,9%) | R$ 300 | **R$ 2.342** | R$ 2.400 |
+| R$ 5.000 | R$ 300 | R$ 1.621 | R$ 178 | R$ 478 (9,6%) | R$ 300 | **R$ 4.222** | R$ 4.000 |
+| R$ 8.000 | R$ 480 | R$ 2.240 | R$ 246 | R$ 726 (9,1%) | R$ 300 | **R$ 6.974** | R$ 5.550 |
+| R$ 10.000 | R$ 600 | R$ 2.800 | R$ 308 | R$ 908 (9,1%) | R$ 300 | **R$ 8.792** | R$ 6.930 |
+| R$ 12.000 | R$ 720 | R$ 3.360 | R$ 370 | R$ 1.090 (9,1%) | R$ 300 | **R$ 10.610** | R$ 8.350 |
+| R$ 15.000 | R$ 900 | R$ 4.200 | R$ 462 | R$ 1.362 (9,1%) | R$ 300 | **R$ 13.338** | R$ 10.550 |
+
+O pró‑labore não é custo extra: ele é pago a você. Só os 11% de INSS saem do seu bolso, e eles contam para a sua aposentadoria. O restante do lucro sai como distribuição isenta.
+
+Leitura: abaixo de ~R$ 4 mil/mês, CNPJ e pessoa física empatam. A partir de ~R$ 5 mil, o CNPJ começa a compensar, e a diferença cresce com o faturamento.
