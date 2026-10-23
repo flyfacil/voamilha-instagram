@@ -68,3 +68,21 @@ Efetiva = (RBT12 × nominal − dedução) ÷ RBT12.
 | Mês | InfinitePay (consultoria) | InfinitePay (ebook) | Mercado Pago (consultoria) | Mercado Pago (ebook) |
 |---|---|---|---|---|
 | | | | | |
+
+## 7. Simulação com seus números (out/2026)
+
+Premissa: R$ 15 mil/mês no total, sendo ~R$ 12 mil de consultoria e ~R$ 3 mil de venda de passagens. RBT12 = R$ 180 mil (1ª faixa).
+
+| Item | Valor/mês |
+|---|---|
+| DAS Simples (Anexo III, 6% sobre 15 mil) | R$ 900 |
+| Pró‑labore (28% = R$ 4.200) → INSS 11% | R$ 462 |
+| IRPF sobre pró‑labore (≤ R$ 5 mil, isento) | R$ 0 |
+| **Total de impostos** | **R$ 1.362 (~9,1%)** |
+| Lucro distribuído isento (antes de contador e despesas) | ~R$ 9.438 |
+
+Comparação: no Anexo V, sem Fator R, seriam R$ 2.325 (15,5%). Como pessoa física (carnê‑leão), cerca de R$ 3.216 (~21%) + INSS.
+
+**Passagens (R$ 3 mil):** adicionar o CNAE secundário **7911-2/00** (Anexo III, 6%, sem depender do Fator R). Melhor estrutura: o cliente paga taxas e milhas direto à companhia aérea e você cobra só a **taxa de emissão/assessoria**. Assim, só a sua taxa vira receita tributável, e não o valor cheio da passagem. Se você vende milhas próprias, o valor cheio vira receita, e os programas de fidelidade proíbem essa venda (risco de bloqueio da conta).
+
+Atenção: ao passar de R$ 180 mil em 12 meses, a alíquota efetiva sobe (ex.: R$ 18 mil/mês → ~6,9%). Recalcule o pró‑labore a cada mês.
