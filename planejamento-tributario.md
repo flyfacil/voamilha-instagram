@@ -10,7 +10,7 @@
 | Natureza jurídica | **SLU** (Sociedade Limitada Unipessoal) — sem sócio, patrimônio separado |
 | Regime | **Simples Nacional** com **Fator R ≥ 28%** |
 | CNAE principal | **7020-4/00** – Atividades de consultoria em gestão empresarial (consultoria de milhas/viagens = assessoria ao cliente) |
-| CNAE secundário (ebook) | **5811-5/00** – Edição de livros (ou 4761-0/01 – comércio varejista de livros, se for só revenda) |
+| CNAE secundário (ebook) | **4761-0/01** – Comércio varejista de livros (ou 5811-5/00 – Edição de livros, conforme o contador) — ver seção 9 |
 | Alíquota efetiva inicial | **6%** sobre consultoria (Anexo III) e **~4,5% ou menos** sobre ebook (ver item 3) |
 | O que evitar | MEI (consultoria **não é permitida** no MEI); CNAE de agência de viagens (7911-2/00) ou intermediação (7490-1/04) — caracteriza venda/intermediação de passagens e milhas, risco fiscal e regulatório (Cadastur) |
 
@@ -101,3 +101,26 @@ Atenção: ao passar de R$ 180 mil em 12 meses, a alíquota efetiva sobe (ex.: R
 | R$ 25.000 | R$ 7.000 | ~R$ 2.020 (~8,1%) | R$ 770 | ~11,2% + pequeno IRPF |
 
 - Prazo: optar pelo Simples em até 30 dias da última inscrição (municipal/estadual), limitado a 60 dias da abertura do CNPJ.
+
+## 9. Ebook — estrutura para tributar menos
+
+**Carga do ebook vs consultoria (1ª faixa):**
+
+| Receita | DAS | INSS do pró‑labore (Fator R) | Total |
+|---|---|---|---|
+| Consultoria (Anexo III) | 6% | 3,08% | ~9,1% |
+| **Ebook (Anexo I, ICMS segregado por imunidade)** | **~2,64%** (4% − parcela de ICMS de 34%) | 3,08%* | **~5,7%** |
+
+*A receita do ebook entra no total usado no Fator R, então também pede 28% de pró‑labore.
+
+**Para garantir a imunidade de livro:**
+1. O produto tem que ser **livro**: PDF/ePub com texto, capa, sumário e autoria. **Registre o ISBN** (Câmara Brasileira do Livro), que reforça que é livro.
+2. **Não junte** com vídeo‑aula, grupo, mentoria ou área de membros. Esses extras viram curso/infoproduto (Anexo III, 6%) e podem contaminar o ebook. Se quiser oferecer os extras, venda em produto e link separados.
+3. CNAE **4761-0/01** (ou 5811-5/00) e, no PGDAS‑D, marque a receita do ebook como **venda de mercadoria com ICMS imune**.
+4. Emita **NF‑e/NFC‑e** de venda de livro (CFOP 5102/6108, NCM 4901.99.00, CST de ICMS imune), não NFS‑e. Para venda a consumidor de outro estado, o contador verifica a obrigação no estado.
+5. **Plataforma (Hotmart/Kiwify/InfinitePay/Mercado Pago):** a receita é o **preço cheio** pago pelo cliente. A taxa da plataforma é despesa, não se abate do DAS.
+6. **PIS/COFINS:** livro tem alíquota zero (Lei 10.865/2004, art. 28, VI), mas a Receita costuma **não aceitar** abater isso no Simples. Não conte com essa economia sem consulta formal.
+
+**Não faça:** inflar o preço do ebook e reduzir o da consultoria (ex.: "ebook R$ 900 + consultoria grátis"). Isso é simulação: a Receita requalifica toda a receita como serviço e cobra multa de 75–150%. O preço de cada produto precisa ser real e vendido separadamente.
+
+**Alternativa — Amazon KDP:** a Amazon vende e paga royalties ao autor. Os royalties entram como receita da PJ de direitos autorais (Anexo III), sem ganho em relação à venda direta pela PJ como livro. Use só pelo alcance, não por imposto.
