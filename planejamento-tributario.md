@@ -86,3 +86,18 @@ Comparação: no Anexo V, sem Fator R, seriam R$ 2.325 (15,5%). Como pessoa fís
 **Passagens (R$ 3 mil):** adicionar o CNAE secundário **7911-2/00** (Anexo III, 6%, sem depender do Fator R). Melhor estrutura: o cliente paga taxas e milhas direto à companhia aérea e você cobra só a **taxa de emissão/assessoria**. Assim, só a sua taxa vira receita tributável, e não o valor cheio da passagem. Se você vende milhas próprias, o valor cheio vira receita, e os programas de fidelidade proíbem essa venda (risco de bloqueio da conta).
 
 Atenção: ao passar de R$ 180 mil em 12 meses, a alíquota efetiva sobe (ex.: R$ 18 mil/mês → ~6,9%). Recalcule o pró‑labore a cada mês.
+
+## 8. Primeiro mês — sem histórico de faturamento
+
+- Empresa nova: o Simples projeta o faturamento anual como **receita do mês × 12** (LC 123, art. 18, §2º). O Fator R usa a mesma regra (folha do mês × 12).
+- Por isso, o **pró‑labore é variável**: ao fechar cada mês, defina pró‑labore = **28% do que entrou** (mínimo 1 salário mínimo).
+- Enquanto a média ficar em até R$ 15 mil/mês, a carga total fica em **~9,1%** (6% DAS + 3,08% INSS), seja qual for o valor.
+
+| Recebido no mês | Pró‑labore (28%) | DAS | INSS | Total aprox. |
+|---|---|---|---|---|
+| R$ 5.000 | R$ 1.400 → sobe para o salário mínimo | R$ 300 | ~R$ 178 | ~9,6% |
+| R$ 10.000 | R$ 2.800 | R$ 600 | R$ 308 | ~9,1% |
+| R$ 15.000 | R$ 4.200 | R$ 900 | R$ 462 | ~9,1% |
+| R$ 25.000 | R$ 7.000 | ~R$ 2.020 (~8,1%) | R$ 770 | ~11,2% + pequeno IRPF |
+
+- Prazo: optar pelo Simples em até 30 dias da última inscrição (municipal/estadual), limitado a 60 dias da abertura do CNPJ.
