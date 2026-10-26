@@ -10,3 +10,4 @@
 - 2026-10-14 · carrossel china-executiva · COMENTA "ASSESSORIA" → mandar no direct a apresentação da mentoria/assessoria individual.
 | MENTORIA | 19/10/2026 | Trial Reel China R$ 1.550 | Explicar a mentoria e chamar pra conversa |
 | CARTÃO | 20/10/2026 | Reel ranking de cartões (Melhores, Fácil, Fuja) | Perguntar renda e gasto médio no cartão e indicar qual faz sentido pro perfil |
+| LATAM | 26/10/2026 | Reel LATAM Pass + Nubank Croma (Orlando) | Link da promoção de transferência Nubank Croma → LATAM Pass com 35% |
