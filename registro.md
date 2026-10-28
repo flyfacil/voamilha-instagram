@@ -15,7 +15,7 @@
 | 23/10 10:26 | Reel viral: Lisboa em até 2h de voo (formato do Gabriel Zanette, 1,4 mi) | Pesquisa de virais de 23/10 | EUROPA | Agendado, publicação automática, áudio Last Train to London |
 | 26/10 17:00 | Reel: Orlando com mais de R$ 1.000 de desconto (LATAM Pass + Nubank Croma 35%) | Vídeo enviado pelo Marquinhos | LATAM | Agendado, capa personalizada |
 
-## TikTok (reposts dos Reels do Instagram, 2 por dia às 11h e 18h)
+## TikTok @casadosabordo (reposts dos Reels do Instagram, 2 por dia às 11h e 18h)
 
 | Data e hora | Vídeo | Palavra | Status |
 |---|---|---|---|
