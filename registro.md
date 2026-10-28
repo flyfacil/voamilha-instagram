@@ -26,5 +26,11 @@
 | 31/10 11:00 | Executiva pra China por R$ 5 mil (repost-china-executiva-5mil) | CHINA | Agendado, publicação automática |
 | 31/10 18:00 | Lisboa: destinos em até 2h (viral-lisboa-ate-2h) | EUROPA | Agendado, publicação automática |
 | 01/11 11:00 | Bruxelas pela metade do preço (corte-bruxelas-com-print) | EUROPA | Agendado, publicação automática |
+| 01/11 18:00 | Como ir pra China com milhas (asia-china) | CHINA | Agendado, publicação automática |
+| 02/11 11:00 | POV: emitindo passagem na formatura (pov-formatura-emitindo) | - | Agendado, publicação automática |
+| 02/11 18:00 | Bangkok com bem menos milhas (asia-bangkok) | BANGKOK | Agendado, publicação automática |
+| 03/11 11:00 | Como chegar em Tóquio com milhas (asia-toquio) | JAPÃO | Agendado, publicação automática |
+| 03/11 18:00 | Treinando pra levantar as malas (treinando-malas-esposa) | - | Agendado, publicação automática |
 
 - Os outros Reels do Instagram dependem dos arquivos de vídeo, que não estão no repositório.
+- O Reel do Orlando (LATAM + Nubank Croma 35%) ficou de fora: a promoção acabou em 27/10.
