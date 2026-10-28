@@ -32,5 +32,6 @@
 | 03/11 11:00 | Como chegar em Tóquio com milhas (asia-toquio) | JAPÃO | Agendado, publicação automática |
 | 03/11 18:00 | Treinando pra levantar as malas (treinando-malas-esposa) | - | Agendado, publicação automática |
 | 04/11 11:00 | Orlando com mais de R$ 1.000 de desconto (latam-nubank-croma-orlando-final) | LATAM | Agendado, publicação automática; legenda avisa que a promoção foi em 26 e 27/10 |
+| 04/11 18:00 | Europa pela metade do preço (corte-bruxelas-metade-do-preco) | EUROPA | Agendado, publicação automática |
 
 - Os outros Reels do Instagram dependem dos arquivos de vídeo, que não estão no repositório.
