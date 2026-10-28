@@ -14,3 +14,17 @@
 | 20/10 20:52 | Reel: ranking de cartões MELHORES / FÁCIL DE CONSEGUIR / FUJA (fotos reais, fundo do Big Ben) | Inspirado no Reel do @gabrielzanette | CARTÃO | Agendado, publicação automática, áudio Last Train to London |
 | 23/10 10:26 | Reel viral: Lisboa em até 2h de voo (formato do Gabriel Zanette, 1,4 mi) | Pesquisa de virais de 23/10 | EUROPA | Agendado, publicação automática, áudio Last Train to London |
 | 26/10 17:00 | Reel: Orlando com mais de R$ 1.000 de desconto (LATAM Pass + Nubank Croma 35%) | Vídeo enviado pelo Marquinhos | LATAM | Agendado, capa personalizada |
+
+## TikTok (reposts dos Reels do Instagram, 2 por dia às 11h e 18h)
+
+| Data e hora | Vídeo | Palavra | Status |
+|---|---|---|---|
+| 29/10 11:00 | China ida e volta por R$ 1.550 (reel-china-1550-relancamento) | MENTORIA | Agendado, publicação automática |
+| 29/10 18:00 | 2 executivas pra Tailândia por R$ 5 mil (reel-bangkok-executiva-relancamento) | MENTORIA | Agendado, publicação automática |
+| 30/10 11:00 | POV Europa por uns R$ 700 (pov-europa-700-reais) | MENTORIA | Agendado, publicação automática |
+| 30/10 18:00 | Ranking de cartões (cartoes-melhores-facil-fuja) | CARTÃO | Agendado, publicação automática |
+| 31/10 11:00 | Executiva pra China por R$ 5 mil (repost-china-executiva-5mil) | CHINA | Agendado, publicação automática |
+| 31/10 18:00 | Lisboa: destinos em até 2h (viral-lisboa-ate-2h) | EUROPA | Agendado, publicação automática |
+| 01/11 11:00 | Bruxelas pela metade do preço (corte-bruxelas-com-print) | EUROPA | Agendado, publicação automática |
+
+- Os outros Reels do Instagram dependem dos arquivos de vídeo, que não estão no repositório.
