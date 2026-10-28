@@ -31,6 +31,6 @@
 | 02/11 18:00 | Bangkok com bem menos milhas (asia-bangkok) | BANGKOK | Agendado, publicação automática |
 | 03/11 11:00 | Como chegar em Tóquio com milhas (asia-toquio) | JAPÃO | Agendado, publicação automática |
 | 03/11 18:00 | Treinando pra levantar as malas (treinando-malas-esposa) | - | Agendado, publicação automática |
+| 04/11 11:00 | Orlando com mais de R$ 1.000 de desconto (latam-nubank-croma-orlando-final) | LATAM | Agendado, publicação automática; legenda avisa que a promoção foi em 26 e 27/10 |
 
 - Os outros Reels do Instagram dependem dos arquivos de vídeo, que não estão no repositório.
-- O Reel do Orlando (LATAM + Nubank Croma 35%) ficou de fora: a promoção acabou em 27/10.
