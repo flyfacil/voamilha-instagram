@@ -17,6 +17,7 @@
 | 26/10 18:30 | Trial Reel repost: Executiva pra China por R$ 5 mil (legenda original mantida, zoom + áudio normalizado) | Reel de 13/10 (DedCBm5RBk2, 3,2 mil views, 98 comentários) | CHINA | Agendado, publicação automática |
 | 27/10 18:58 | Reel POV: nossa cara quando embarcamos na EUROPA por 700 reais (print Madrid → Fortaleza 28.420 milhas, sem data) | Vídeos do avião enviados pelo Marquinhos | MENTORIA | Agendado, publicação automática |
 | 28/10 | Reel: LATAM 25% de bônus (15 bancos com logo, como transferir, Lisboa e Roma em reais vs Google) | Promoção LATAM Pass 28 a 31/10 | LATAM | Publicado via Metricool |
+| 29/10 19:14 | Carrossel (print de tweet): China R$ 24 mil no Google x 95 mil Avios (Qatar GRU⇄CAN, abr/2027) | Vídeo da China com fundo do Google | CHINA | Modo notificação no Metricool (ele põe a música no app) |
 
 ## TikTok @casadosabordo (reposts dos Reels do Instagram, 2 por dia às 11h e 18h)
 
