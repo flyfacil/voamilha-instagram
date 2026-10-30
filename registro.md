@@ -39,3 +39,4 @@
 | 04/11 18:00 | Europa pela metade do preço (corte-bruxelas-metade-do-preco) | EUROPA | Agendado, publicação automática |
 
 - Os outros Reels do Instagram dependem dos arquivos de vídeo, que não estão no repositório.
+| 30/10 08:00 | Carrossel (print de tweet): Canton Fair, R$ 24 mil no Google x 95 mil Avios (Qatar GRU⇄CAN, abr/2027) | Vídeo da Canton Fair e China | CHINA | Publicação automática, sem música. Em 29/10 às 19h22 deu erro de limite da conta Metricool |
