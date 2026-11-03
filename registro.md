@@ -40,3 +40,4 @@
 
 - Os outros Reels do Instagram dependem dos arquivos de vídeo, que não estão no repositório.
 | 30/10 11:00 | Carrossel (print de tweet): Canton Fair, R$ 24 mil no Google x 95 mil Avios (Qatar GRU⇄CAN, abr/2027) | Vídeo da Canton Fair e China | CHINA | Modo aviso no celular, ele põe a música no app. Em 29/10 às 19h22 deu erro de limite da conta Metricool |
+| 03/11 11:00 | Carrossel Black Friday (7 slides): viajar mais, fotos do Ceará (tirolesa, buggy, Jeri) e Madri | Black do Marquinhos, grupo VIP | BLACK | Publicação automática, sem música |
